@@ -5,7 +5,7 @@ For retail investors, it is critical to rationally adjust asset allocation and a
 
 ## Professional Vietnam Market Reference
 If you want to track the latest Vietnam stock index trends, macroeconomic data and local financial news, you can check professional local financial updates here:
-[Vietnam Real-Time Financial Market Data](https://vietfinance.asia)
+[Vietnam Real-Time Financial Market Data](https://www.setvie.asia/)
 
 ## Final Investment Tip 
 Never invest funds you cannot afford to lose. Always make investment decisions based on objective market data rather than market sentiment.
